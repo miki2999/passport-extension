@@ -6,10 +6,10 @@ const defaultResponse = (): LocationServicesResponse => {
     Success: true,
     Results: [
       {
-        serviceId: 2095,
+        serviceId: 420,
         serviceName: 'תיאום פגישה לתיעוד ביומטרי',
         serviceDescription: '',
-        ServiceTypeId: 156,
+        ServiceTypeId: 25,
         serviceTypeDescription: '',
         description: 'בכל פנייה יינתן שירות לפונה/אדם אחד בלבד',
         showStats: false,
@@ -18,7 +18,7 @@ const defaultResponse = (): LocationServicesResponse => {
         DynamicFormsEnabled: true,
         HasFIFOService: false,
         ExtRef: '',
-        LocationId: 799,
+        LocationId: 176,
       },
     ],
     Page: 0,
