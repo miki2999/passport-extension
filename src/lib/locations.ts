@@ -8,5 +8,11 @@ export const Locations: Location[] = [
     description: 'סניף הנביאים',
     name: 'סניף הנביאים חיפה',
   },
-
+  {
+    id: 377,
+    city: 'חיפה',
+    address: 'מתמ',
+    description: 'מתמ',
+    name: 'מתמ',
+  },
 ];
